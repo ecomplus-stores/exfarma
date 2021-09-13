@@ -1,24 +1,24 @@
 {
-  "store_id": 7130,
-  "name": "exfarma",
   "domain": "exfarma.netlify.app",
-  "short_name": "exfarma",
-  "description": "exfarma",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ec1f24",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#e51e23",
+  "repository": "ecomplus-stores/exfarma",
+  "logo": "/img/uploads/exfarmalogo.jpg",
+  "name": "exfarma",
+  "short_name": "exfarma",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/farmacia.jpg",
   "country_code": "BR",
-  "repository": "ecomplus-stores/exfarma"
+  "secondary_color": "#e51e23",
+  "icon": "/img/uploads/farmacia.jpg",
+  "store_id": 7130,
+  "description": "exfarma",
+  "large_icon": "/img/uploads/farmacia.jpg"
 }
