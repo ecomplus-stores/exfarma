@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.edef348f7ddd86905c5e77b99dc45993.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.7d5eac1e145c5593beb801c4f6cba2c7.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.fa13bc7b88dfbec9000ad5c438ccd777.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.1c6e6e16582ee84833fadcb61a03b6c7.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.f9c794ad8ac695cb32508940af890d5a.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "exfarma",
+  "short_name": "exfarma",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "exfarma",
+  "background_color": "#e51e23",
+  "theme_color": "#ec1f24"
+}
